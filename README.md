@@ -84,6 +84,6 @@ XZemulator contains no Apple firmware, code, or files taken from an IPSW. Bring 
 
 Apple, iOS and iPhone are trademarks of Apple Inc. XZemulator is an independent research project and is not affiliated with, endorsed by, or sponsored by Apple Inc.
 
-No open-source license has been chosen for XZemulator yet. Until one is, the XZemulator code is all rights reserved and provided as is, without warranty. The bundled third-party components keep their own licenses: CPython, OpenSSL, libffi, NSIS and the AppImage runtime among them. The installers include the full list in `LICENSE_NOTICE`.
+XZemulator is released under the [MIT License](LICENSE). The license covers XZemulator's own code, including the 0.2.0 release. The bundled third-party components keep their own licenses: CPython, OpenSSL, libffi, NSIS and the AppImage runtime among them. The installers include the full list in `LICENSE_NOTICE`.
 
 This repository publishes the release builds. The source code is not published here yet.
